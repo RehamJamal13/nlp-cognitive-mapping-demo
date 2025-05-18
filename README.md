@@ -52,12 +52,6 @@ This project showcases skills in:
     ```
     Then navigate to the `notebooks/` folder within the Jupyter interface and open `your_actual_notebook_name.ipynb`.
 
-## Optional: Graphviz for Hierarchical Layout
-The cognitive map visualization attempts to use Graphviz for a hierarchical layout (`dot` program). If Graphviz is not installed on your system, the plot will fall back to a spring layout. To install Graphviz:
-*   **Linux (Ubuntu/Debian):** `sudo apt-get install graphviz`
-*   **macOS (using Homebrew):** `brew install graphviz`
-*   **Windows:** Download installers from the [Graphviz website](https://graphviz.org/download/) and ensure the `bin` directory is added to your system's PATH.
-You may also need the `pydotplus` Python package (or `pydot`), which should be included in `requirements.txt` if you are using `nx.nx_pydot.graphviz_layout`.
 
 ## Author
-Reham Jamal
+Raham saleem
