@@ -1,0 +1,4 @@
+matplotlib==3.7.1
+networkx==3.1
+spacy==3.5.2
+pydotplus==2.0.2 # If you used it for graphviz layout via networkx
